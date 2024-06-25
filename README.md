@@ -23,4 +23,4 @@ pytest -v
 
 Contributors names and contact info
 
-ex. Saraniyalakshmi Palani
+Saraniyalakshmi Palani
