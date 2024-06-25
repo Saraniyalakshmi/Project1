@@ -7,7 +7,8 @@ OrangeHRM is web based system to maintain employee database. This projects uses 
 
 - orangehrm/orangehrm.py has implementation of selenium of code to automate the testing of login/PIM modules
 - tests/test_orangehrm.py Test cases written using pytest
-
+- Test cases were validated successfully and documented in TestResults_Screenshot.docx
+  
 ## Getting Started
 
 ### Dependencies
