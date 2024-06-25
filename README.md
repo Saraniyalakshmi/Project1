@@ -5,6 +5,9 @@ Automate the testing of OrangeHRM system
 
 OrangeHRM is web based system to maintain employee database. This projects uses selenium to automate the testing of Login and PIM module. Test cases are executed using pytest
 
+- orangehrm/orangehrm.py has implementation of selenium of code to automate the testing of login/PIM modules
+- tests/test_orangehrm.py Test cases written using pytest
+
 ## Getting Started
 
 ### Dependencies
